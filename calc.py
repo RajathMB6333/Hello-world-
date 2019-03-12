@@ -4,3 +4,4 @@ def rajath(color = 'Blue'):
 rajath('white')
 rajath()
 rajath('black')
+rajath('white2')
